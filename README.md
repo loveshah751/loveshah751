@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![](https://visitor-badge.glitch.me/badge?page_id=loveshah751.loveshah751)<br/>
 Hi, I'm LOVEPREET SINGH <a href= "https://github.com/loveshah751" ><img alt="ProfileImg" src="https://github.com/loveshah751/loveshah751/blob/main/bitbucket.png" width="30" height="30" /> </a>, Computer Science :computer:&emsp;graduate Student :mortar_board:&emsp;from CAL STATE L.A. <br/>
-Currently working as Software Engineer for one of the fortune 500 companies in L.A. :us: :heart:
+Currently working as Software Engineer for one of the fortune 20 companies in L.A. :us: :heart:
 
   <img align="right" alt="GIF" src="https://github.com/loveshah751/loveshah751/blob/main/dev.gif" width="300" height="220" />
   
