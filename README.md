@@ -7,7 +7,7 @@ Currently working as Lead Software Engineer for ADP Innvotation lab in L.A. :us:
   
 Here is how my weekend Schedule look like :sweat_smile:
 
-- 🌱 I’m currently learning role of embedding models in GenAI and internals of transformers.
+- 🌱 I’m currently learning embedding models in GenAI and internals of transformers.
 - 👯 I’m looking to collaborate to any open source project in JAVA language.
 - 💬 Ask me about anything about the event driven Architecture, reactive programming, Spring boot.
 - 📫 Reach me on any social media platform.
